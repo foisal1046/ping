@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+}
+.font{
+    font-family: 'Caveat', cursive;
+}
+/* .link{
+    @apply grid p-5 grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 content-center place-items-center ;
+} */
